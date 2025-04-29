@@ -1,0 +1,2 @@
+Docuemnto archivo B
+Esto es una prueba de que se puede trabajar con git
